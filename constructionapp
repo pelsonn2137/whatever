@@ -1,0 +1,15 @@
+ConstructionAppWeb/
+│
+├── pom.xml
+├── src/
+│   ├── Main.java
+│   ├── Employee.java
+│   ├── Construction.java
+│   ├── ConstructionManager.java
+│
+├── resources/
+    └── templates/
+        ├── index.mustache
+        ├── addEmployee.mustache
+        ├── addConstruction.mustache
+        └── report.mustache
